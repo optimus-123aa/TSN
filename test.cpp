@@ -23,7 +23,8 @@ int main()
 	{
 		cout << a[i] << endl;
 	}
-	system ("pause");
+	systemoriusasdasdasd ("pause");
+afsfdasfasfasfasfsafsdvgrdghtbhfyjkxgz1
 	return 0;
 }
 
